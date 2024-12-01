@@ -82,7 +82,7 @@ export function DashboardNavbar() {
         </TooltipProvider>
         
         <h1 className="hidden md:block text-lg md:text-xl lg:text-2xl font-semibold ml-8">
-          <Link href="/">ASR Technologies</Link>
+          <Link href="/">ASR Tech Solutions</Link>
         </h1>
       </div>
     </nav>
